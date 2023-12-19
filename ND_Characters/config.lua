@@ -5,14 +5,14 @@ config = {
     enableAppearance = true, -- if this is true you need to install fivem-appearance otherwise you won't be able to customize and save ped.
     characterSelectionAopDisplay = true, -- if this is true then you must add a export below and return the value.
     aopExport = function()
-        return exports["ModernHUD"]:getAOP()
+        return exports["SimpleHUD"]:getAOP() -- exports["ModernHUD"]:getAOP()
     end,
 
     -- set your backgrounds, if you have more than 1 then it will randomly change everytime you open the ui.
     backgrounds = {
-        "https://i.imgur.com/VRki1t1.png",  -- Credits: Fuzzman270#0270
-        "https://i.imgur.com/S8A3URh.jpeg",  -- Credits: Fuzzman270#0270
-        "https://i.imgur.com/RxAbODZ.png"   -- Credits: 2XRondo#6374
+        "",  -- Credits: Fuzzman270#0270
+        "",  -- Credits: Fuzzman270#0270
+        ""   -- Credits: 2XRondo#6374
     },
 
     departments = {                         -- these are the required discord role ids to be able to access these departments (enable developer mode in discord's advanced settings and right click the role)
