@@ -28,12 +28,12 @@ config = {
     enableRichPresence = true,
     updateIntervall = 60, -- how many seconds of delay until it updates status.
     appId = 858146067018416128,
-    largeLogo = "FiveM Frist Response",
-    smallLogo = "5MFR",
+    largeLogo = "YOUR SERVER",
+    smallLogo = "YOUR SERVER",
     firstButtonName = "Join Discord",
-    firstButtonLink = "https://discord.gg/Z9Mxu72zZ6",
+    firstButtonLink = "YOUR SERVER",
     secondButtonName = "Visit Website",
-    secondButtonLink = "https://fr.discordsolutions.net/",
+    secondButtonLink = "YOUR SERVER",
 
 
     -- Groups can be gangs, jobs, subdivisions, etc.
