@@ -1,7 +1,7 @@
 -- For support join my discord: https://discord.gg/Z9Mxu72zZ6
 
 config = {
-    serverName = "FiveM Frist Response",
+    serverName = "YOUR SERVER",
     characterLimit = 5, -- How many characters can a player create.
     customPauseMenu = true, -- A custom pause menu will display your money, characters name and the server name in the pause menu.
     enablePVP = true, -- pvp allows doing damage to other players.
